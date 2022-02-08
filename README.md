@@ -1,6 +1,6 @@
 <h3 align="center">Art Dev Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
+
 
 
 
@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caviuna&" alt="caviuna" /></p>
 
 
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
 
 <!--
 **Caviuna/caviuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
