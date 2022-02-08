@@ -1,5 +1,7 @@
 <h3 align="left">Art Dev Science</h3>
 
+<h3 align="left">Try to manipulate the data to put it all together in the AI ​​and generate art with lots of code. And where do I enter? With creativity.</h3>
+
 
 
 
