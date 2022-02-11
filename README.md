@@ -45,13 +45,12 @@
 
 </a> </p>
 
-
 <p align="right">
-
 <a href="https://www.kaggle.com/caviuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caviuna" height="20" width="30" /></a>
-</a>  </a> 
+</a>  </a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
 
 
 
