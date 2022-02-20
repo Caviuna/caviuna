@@ -52,7 +52,57 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<title>SEM TITULO :)</title>
 
+<style>
+#tit {line-height: 0%;text-align: center;color:white;font-size: 4vw;text-shadow: 1px 1px 4px #000;}
+
+a:link {color:white;text-decoration:none;}
+
+a:hover {color:gold;}
+
+#main {text-align: center;border:#9a9a9a dotted;padding:0.5em;margin: 1em 2em;}
+
+#dem {font-size: 2.5vw;color: #fff;text-shadow: 1px 1px 4px #000;}
+</style>
+</head>
+<body>
+<h3 id="tit"><a href="javascript:myFunction_00()">4x4</a> -- <a href="javascript:myFunction_01()">30x30</a></h3>
+<div id="main">
+<p id="dem"></p>
+</div>
+
+
+<script>
+var str = "&#9733;", txt="", L, c, n;
+function myFunction_00() {
+txt="";
+for (L=1;L<=4;L++){
+	for (c=1;c<=4;c++){
+	txt+= str+" ";
+	}
+txt+="<br>";
+}
+document.getElementById("dem").innerHTML = txt;
+}
+
+function myFunction_01() {
+txt="";
+for (n=1;n<=900;n++){
+//Se o resto da divisão por 30 é diferente de 0, txt+=str+" ", senao, txt+=str+"<br>"
+txt+=(n%30!=0?str+" ":str+"<br>");
+}
+document.getElementById("dem").innerHTML = txt;
+}
+
+</script>
+
+</body>
+</html>
 
 <!--
 **Caviuna/caviuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
