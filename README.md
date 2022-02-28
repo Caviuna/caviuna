@@ -51,7 +51,7 @@ background-size: cover;
 </a>  </a>  
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> 
 
-</a> </p> </br>
+</a> </p> 
 
 
 <h4 align="center"> Fun and studies:</h4> 
@@ -64,9 +64,8 @@ background-size: cover;
 
 <p align="center">
 <a href="https://www.kaggle.com/caviuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caviuna" height="20" width="30" /></a>
-</a>  </a> </p> </br>
+</a>  </a> </p> 
 
-</br>
 
 
 
