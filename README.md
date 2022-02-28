@@ -1,7 +1,15 @@
+
+
+
+
 <h3 align="left">Art Dev Science</h3>
 
 <h3 align="left">Trying to manipulate the data to put it all together in the AI and generate art with a lot of code... And where do I enter?  With creativity of course.</h3>
 
+background-image: url("F:\readme_caviuna\caviuna\IMG_20220205_150513.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 
 
 <h4 align="left"> I’m currently learning:</h4> 
@@ -43,11 +51,23 @@
 </a>  </a>  
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> 
 
-</a> </p>
+</a> </p> </br>
 
-<p align="right">
+
+<h4 align="center"> Fun and studies:</h4> 
+
+<p align="center">
+<a href="https://www.freecodecamp.org/caviuna" target="_blank" class=""><i class="fa fa-free-code-camp" aria-hidden="true"></i> freeCodeCamp </a> </a> </p> 
+
+<p align="center">
+<a href="https://auth.geeksforgeeks.org/user/caviuna/profile" target="_blank" class=""> <i class="gk gk-geek-for-geeks" aria-hidden="true"> </i> GeekforGeeks </a> </a> </p> 
+
+<p align="center">
 <a href="https://www.kaggle.com/caviuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caviuna" height="20" width="30" /></a>
-</a>  </a> </p>
+</a>  </a> </p> </br>
+
+</br>
+
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
