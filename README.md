@@ -48,8 +48,9 @@
 
 </a> </p> 
 
-
+![pr_sine_wave_v3](https://user-images.githubusercontent.com/87449988/159103905-12117d8b-0dc6-456f-b88d-84dc4011588e.gif)
 <h4 align="center"> Fun and studies:</h4> 
+
 
 <p align="center">
 <a href="https://www.freecodecamp.org/caviuna" target="_blank" class=""><i class="fa fa-free-code-camp" aria-hidden="true"></i> freeCodeCamp </a> </a> </p> 
@@ -62,9 +63,8 @@
 </a>  </a> </p> 
 
 
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=caviuna&label=Profile%20views&color=0e75b6&style=flat" alt="caviuna" /> </p>
+
 
 
 
