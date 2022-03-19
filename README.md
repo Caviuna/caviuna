@@ -48,9 +48,6 @@
 
 </a> </p> 
 
-![pr_sine_wave_v3](https://user-images.githubusercontent.com/87449988/159103905-12117d8b-0dc6-456f-b88d-84dc4011588e.gif){ widht: 50px;}
-
-
 <h4 align="center"> Fun and studies:</h4> 
 
 <p align="center">
