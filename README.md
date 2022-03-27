@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-image: url(manu_bw.PNG);
+  background-image: url(https://github.com/Caviuna/caviuna/blob/main/manu_bw.PNG);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
