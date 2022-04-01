@@ -2,7 +2,7 @@
 <head>
 <!-- <style>
 body {
-  background-image: url(![manu_bw](https://user-images.githubusercontent.com/87449988/161174180-27f11765-2779-4699-bb46-c81a6030381e.PNG);
+  background-image: url(/main/manu_bw.PNG);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
