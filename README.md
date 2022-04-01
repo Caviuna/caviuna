@@ -1,13 +1,13 @@
 <html>
 <head>
-  <style>
+<!--   <style>
 body {
   background-image: url(/main/manu_bw.PNG);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
 }
-  </style> 
+  </style>  -->
 </head>
 
 <body>
